@@ -2,6 +2,8 @@
 ## Summarize
 This project uses computer vision algorithms that detect hands to allow interaction with 3D models just by moving or closing the hands. Este proyecto se creo con el fin de usarse en ventiladores holograficos de Hologram PyP. 
 
+![image](assets/showcase-hand-interaction.gif)
+
 ## Machine learning algorithm
 Dentro de los algoritmos de vision por computadora elegi [MediaPipe Hands](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html). Un modelo de machine learning para el seguimiento de manos y dedos. Este me permite detectar 21 puntos clave de la mano o incluso de varias manos. 
 
